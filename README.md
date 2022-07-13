@@ -2,8 +2,8 @@
 =======
 SSH.NET is a Secure Shell (SSH-2) library for .NET, optimized for parallelism.
 
-[![Version](https://img.shields.io/nuget/vpre/SSH.NET.svg)](https://www.nuget.org/packages/TrapTech.SSH.NET)
-[![NuGet download count](https://img.shields.io/nuget/dt/SSH.NET.svg)](https://www.nuget.org/packages/TrapTech.SSH.NET)
+[![Version](https://img.shields.io/nuget/vpre/TrapTech.SSH.NET.svg)](https://www.nuget.org/packages/TrapTech.SSH.NET)
+[![NuGet download count](https://img.shields.io/nuget/dt/TrapTech.SSH.NET.svg)](https://www.nuget.org/packages/TrapTech.SSH.NET)
 
 ## FORK
 
@@ -13,7 +13,7 @@ It's published on nuget.org as a separate package under the `TrapTech.` prefix.
 
 Current changes from upstream:
 
-- [PR 144] merged
+- [PR 144](https://github.com/sshnet/SSH.NET/pull/144) merged
 - `ChannelInputStream.cs` from a previous version of PR 144 added back, along with `InputStream` on `SshCommand`.
   This change allows complete communication with a process executed over SSH.
 
