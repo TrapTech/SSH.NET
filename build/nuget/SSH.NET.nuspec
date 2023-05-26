@@ -2,7 +2,7 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
     <metadata>
         <id>TrapTech.SSH.NET</id>
-        <version>$version$</version>
+        <version>2020.0.4</version>
         <title>SSH.NET</title>
         <authors>Renci</authors>
         <owners>olegkap,drieseng</owners>
@@ -10,7 +10,7 @@
         <projectUrl>https://github.com/TrapTech/SSH.NET/</projectUrl>
         <requireLicenseAcceptance>false</requireLicenseAcceptance>
         <description>[FORK] SSH.NET is a Secure Shell (SSH) library for .NET, optimized for parallelism and with broad framework support. This fork includes some additional fixes and updates, see GitHub repo for details.</description>
-        <releaseNotes>https://github.com/TrapTech/SSH.NET/releases/tag/$version$</releaseNotes>
+        <releaseNotes>https://github.com/TrapTech/SSH.NET/releases/tag/2020.0.4</releaseNotes>
         <summary>A Secure Shell (SSH) library for .NET, optimized for parallelism.</summary>
         <copyright>$copyright$</copyright>
         <language>en-US</language>
